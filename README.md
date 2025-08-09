@@ -76,12 +76,6 @@ Lasso regression penalizes multicollinear or irrelevant predictors, shrinking th
 
 ---
 
-## How to Use This Repository
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/JuliaHealeyParera/cs216.git
-   cd cs216
-
   
 ## Contact
 Contact alan.qiao@duke.edu and julia.healey-parera@duke.edu for any questions!
