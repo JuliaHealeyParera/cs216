@@ -1,6 +1,6 @@
 # Perfecting the March Madness Bracket
 
-**Authors:** Alan Qiao, Angelina Huang, Julia Healy-Parera, John Lee, Daniel Zhu  
+**Authors:** Alan Qiao, Angelina Huang, Julia Healey-Parera, John Lee, Daniel Zhu  
 **Report:** [`Findings.pdf`](./Findings.pdf)  
 
 **Repository Structure:**  
